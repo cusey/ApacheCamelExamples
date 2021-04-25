@@ -1,6 +1,6 @@
 ![CuseyHub](https://github.com/cusey/ImageForWiki/blob/master/Logos/CuseyHub_Banner_Small.jpg)
 
-# ApacheCamelExample
+# Apache Camel Examples
 
 
 # References
