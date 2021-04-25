@@ -17,9 +17,9 @@ camel-application
         2. Copying files     
         3. Building Message Queue with Producer and Consumer    
         4. Adding Processor to Message Queue    
-        5. Putting Processor between the Producer and Consumer
-        6. Setup ActiveMQ
-        7. Adding file to ActiveMQ
+        5. Putting Processor between the Producer and Consumer     
+        6. Setup ActiveMQ     
+        7. Adding file to ActiveMQ     
 
 
 
