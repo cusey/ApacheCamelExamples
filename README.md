@@ -29,9 +29,15 @@ C:\Program Files\Java\jdk1.8.0_291
 
 
 **ActiveMQ**
+In the browsers    
+localhost:8161
 
 ----> Manage ActiveMQ broker     
 User Name/ Password: admin/admin    
+
+
+----> Create queue
+my_queue
 
 **Context**  
         1. Showing  how to use routes   
