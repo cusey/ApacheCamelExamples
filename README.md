@@ -36,8 +36,8 @@ localhost:8161
 User Name/ Password: admin/admin    
 
 
-----> Create queue
-my_queue
+----> Create queue       
+my_queue         
 
 **Context**  
         1. Showing  how to use routes   
