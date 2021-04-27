@@ -47,7 +47,8 @@ my_queue
         5. Putting Processor between the Producer and Consumer     
         6. Setup ActiveMQ     
         7. Adding file to ActiveMQ     
-        8. Saving Date Object to ActiveMQ       
+        8. Saving Date Object to ActiveMQ     
+        9. Start run (8) to put Date in my_queue. Comsumer my_queue and print to the console.      
 
 
 
