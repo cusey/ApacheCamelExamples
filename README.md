@@ -28,8 +28,8 @@ C:\Program Files\Java\jdk1.8.0_291
 `activemq start`
 
 
-**ActiveMQ**
-In the browsers    
+**ActiveMQ**       
+In the browsers        
 localhost:8161
 
 ----> Manage ActiveMQ broker     
