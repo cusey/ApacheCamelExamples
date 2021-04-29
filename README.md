@@ -48,7 +48,8 @@ my_queue
         6. Setup ActiveMQ     
         7. Adding file to ActiveMQ     
         8. Saving Date Object to ActiveMQ     
-        9. Start run (8) to put Date in my_queue. Comsumer my_queue and print to the console.      
+        9. Start run (8) to put Date in my_queue. Comsumer my_queue and print to the console.    
+        10. Using Producer Template into Start Container and print in out with class.            
 
 
 
