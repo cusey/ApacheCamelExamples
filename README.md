@@ -50,7 +50,8 @@ my_queue
         8. Saving Date Object to ActiveMQ     
         9. Start run (8) to put Date in my_queue. Comsumer my_queue and print to the console.    
         10. Using Producer Template into Start Container and print in out with class. 
-        11 Same as Example 10 but using Simple Registry and adding to the context.               
+        11. Same as Example 10 but using Simple Registry and adding to the context.                   
+        12. Pulling Data from MySQL database.        
 
 
 
