@@ -2,6 +2,8 @@
 
 # Apache Camel Examples
 
+![Apache Camel Logo](https://github.com/cusey/ImageForWiki/blob/master/CamelLogo.JPG)
+
 
 # References
 
